@@ -1,0 +1,40 @@
+
+(gnome-settings-daemon:1802): power-plugin-WARNING **: gnome-session is not available
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+** Message: applet now removed from the notification area
+
+(gnome-settings-daemon:1802): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+** Message: using fallback from indicator to GtkStatusIcon
+
+** (zeitgeist-datahub:1938): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(gnome-settings-daemon:1802): print-notifications-plugin-CRITICAL **: gsd_print_notifications_plugin_finalize: assertion `plugin->priv != NULL' failed
+
+(gnome-settings-daemon:1802): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(gnome-settings-daemon:1802): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(gnome-fallback-mount-helper:1838): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:1937): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:1919): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gdu-notification-daemon:1893): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(bluetooth-applet:1837): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:1840): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nautilus:1839): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+

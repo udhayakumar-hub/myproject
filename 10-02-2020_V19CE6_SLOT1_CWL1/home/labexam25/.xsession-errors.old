@@ -1,0 +1,240 @@
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+(gnome-settings-daemon:2073): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.1q.c.swx: Error when getting information for file '/home/labexam25/.1q.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swp: Error when getting information for file '/home/labexam25/.q1.c.swp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swp: Error when getting information for file '/home/labexam25/.q1.c.swp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swp: Error when getting information for file '/home/labexam25/.q1.c.swp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/a.out: Error when getting information for file '/home/labexam25/a.out': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.viminfo.tmp: Error when getting information for file '/home/labexam25/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swp: Error when getting information for file '/home/labexam25/.q2.c.swp': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q2.c.swx: Error when getting information for file '/home/labexam25/.q2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q2.c~: Error when getting information for file '/home/labexam25/q2.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/.q1.c.swx: Error when getting information for file '/home/labexam25/.q1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/q1.c~: Error when getting information for file '/home/labexam25/q1.c~': No such file or directory
+
+** (zeitgeist-datahub:2176): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam25/4913: Error when getting information for file '/home/labexam25/4913': No such file or directory
+
+(gnome-settings-daemon:2073): color-plugin-WARNING **: Done switch to new account, reload devices

@@ -1,0 +1,15 @@
+
+(gnome-settings-daemon:1807): power-plugin-WARNING **: gnome-session is not available
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+(gnome-settings-daemon:1807): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+** (zeitgeist-datahub:1943): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(gnome-settings-daemon:1807): color-plugin-WARNING **: Done switch to new account, reload devices

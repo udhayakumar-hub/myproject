@@ -1,0 +1,53 @@
+
+(gnome-settings-daemon:2457): power-plugin-WARNING **: gnome-session is not available
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+
+(gnome-settings-daemon:2457): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2457): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(gnome-settings-daemon:2457): color-plugin-WARNING **: unable to get EDID for xrandr-VGA1: unable to get EDID for output
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+** (zeitgeist-datahub:2593): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(gnome-settings-daemon:2457): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting
+
+(gnome-settings-daemon:2457): color-plugin-WARNING **: Done switch to new account, reload devices
+
+(gnome-settings-daemon:2457): color-plugin-WARNING **: unable to get EDID for xrandr-VGA1: unable to get EDID for output
+
+(gnome-settings-daemon:2457): print-notifications-plugin-CRITICAL **: gsd_print_notifications_plugin_finalize: assertion `plugin->priv != NULL' failed
+
+(gnome-settings-daemon:2457): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(gnome-settings-daemon:2457): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(nm-applet:2494): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nautilus:2497): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gdu-notification-daemon:2543): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:2577): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(bluetooth-applet:2496): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(update-notifier:2610): Gdk-WARNING **: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:2592): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(deja-dup-monitor:2880): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.30 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts

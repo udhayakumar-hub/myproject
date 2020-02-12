@@ -1,0 +1,15 @@
+/home/labexam34/Desktop was removed, reassigning DESKTOP to homedir
+/home/labexam34/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/labexam34/Templates was removed, reassigning TEMPLATES to homedir
+/home/labexam34/Public was removed, reassigning PUBLICSHARE to homedir
+/home/labexam34/Documents was removed, reassigning DOCUMENTS to homedir
+/home/labexam34/Music was removed, reassigning MUSIC to homedir
+/home/labexam34/Pictures was removed, reassigning PICTURES to homedir
+/home/labexam34/Videos was removed, reassigning VIDEOS to homedir
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon

@@ -1,0 +1,306 @@
+/home/labexam53/Desktop was removed, reassigning DESKTOP to homedir
+/home/labexam53/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/labexam53/Templates was removed, reassigning TEMPLATES to homedir
+/home/labexam53/Public was removed, reassigning PUBLICSHARE to homedir
+/home/labexam53/Documents was removed, reassigning DOCUMENTS to homedir
+/home/labexam53/Music was removed, reassigning MUSIC to homedir
+/home/labexam53/Pictures was removed, reassigning PICTURES to homedir
+/home/labexam53/Videos was removed, reassigning VIDEOS to homedir
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing composite options...done
+Initializing opengl options...done
+Initializing decor options...done
+** Message: applet now removed from the notification area
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+** Message: using fallback from indicator to GtkStatusIcon
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+Initializing grid options...done
+I/O warning : failed to load external entity "/home/labexam53/.compiz/session/1053bf1f4c89e21118154426479936276600000021690033"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+
+(compiz:2236): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+Initializing unityshell options...done
+Initializing staticswitcher options...done
+Setting Update "run_command_terminal_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "autoraise"
+Setting Update "autoraise_delay"
+Setting Update "toggle_window_shaded_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "main_menu_key"
+Setting Update "run_command_terminal_key"
+Setting Update "run_key"
+
+(gnome-settings-daemon:2217): media-keys-plugin-WARNING **: Unable to get default sink
+** Message: moving back from GtkStatusIcon to indicator
+
+(gnome-settings-daemon:2217): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swp: Error when getting information for file '/home/labexam53/.1.c.swp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.2.c.swx: Error when getting information for file '/home/labexam53/.2.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/2.c~: Error when getting information for file '/home/labexam53/2.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.1.c.swx: Error when getting information for file '/home/labexam53/.1.c.swx': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/.viminfo.tmp: Error when getting information for file '/home/labexam53/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/1.c~: Error when getting information for file '/home/labexam53/1.c~': No such file or directory
+
+** (zeitgeist-datahub:2534): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/labexam53/4913: Error when getting information for file '/home/labexam53/4913': No such file or directory
+
+(gnome-settings-daemon:2217): color-plugin-WARNING **: Done switch to new account, reload devices

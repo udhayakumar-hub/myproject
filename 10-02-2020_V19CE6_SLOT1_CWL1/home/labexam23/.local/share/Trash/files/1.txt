@@ -1,0 +1,13 @@
+/******* Do not Edit This Portion. *******/
+1. Please Enter StudentID & Name in Every .c File on the top in Comments
+2. Without the StudentID & Name the Question will not be evaulated
+ 
+Question Start Here --------->
+ 
+1) WAP to implement the user defined function to convert decimal to hexadecimal which returns the hexadecimal value in string format.
+
+	NOTE : enter the value through keyboard.
+
+2) WAP to implement the user defined function for strncpy.
+ 
+Question Ends Here --------->

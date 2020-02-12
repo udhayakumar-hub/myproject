@@ -1,0 +1,28 @@
+
+(gnome-settings-daemon:1809): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:1809): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+
+(gnome-settings-daemon:1809): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:1809): color-plugin-WARNING **: unable to get EDID for xrandr-VGA1: unable to get EDID for output
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+** (zeitgeist-datahub:1939): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(gnome-settings-daemon:1809): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting
+
+(gnome-settings-daemon:1809): color-plugin-WARNING **: Done switch to new account, reload devices
+
+(gnome-settings-daemon:1809): color-plugin-WARNING **: unable to get EDID for xrandr-VGA1: unable to get EDID for output
+
+** (gnome-settings-daemon:1809): WARNING **: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._g_2dfile_2derror_2dquark.Code2: Failed to create file '/home/labexam36/.config/dconf/user.4M4RMZ': Permission denied
+
+(gnome-settings-daemon:1809): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed

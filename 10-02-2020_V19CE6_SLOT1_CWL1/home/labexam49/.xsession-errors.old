@@ -1,0 +1,85 @@
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing composite options...done
+Initializing opengl options...** Message: applet now removed from the notification area
+done
+** Message: using fallback from indicator to GtkStatusIcon
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+Initializing grid options...done
+I/O warning : failed to load external entity "/home/labexam49/.compiz/session/10f7adb27074ba0d20150354575462798000000022940033"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+
+(compiz:2363): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+Initializing unityshell options...done
+Initializing staticswitcher options...done
+Setting Update "run_command_terminal_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "autoraise"
+Setting Update "autoraise_delay"
+Setting Update "toggle_window_shaded_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "main_menu_key"
+Setting Update "run_command_terminal_key"
+Setting Update "run_key"
+** Message: moving back from GtkStatusIcon to indicator
+compiz (core) - Warn: failed to receive ConfigureNotify event on 0x1400004
+
+
+(gnome-settings-daemon:2342): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+
+(gnome-settings-daemon:2342): print-notifications-plugin-CRITICAL **: gsd_print_notifications_plugin_finalize: assertion `plugin->priv != NULL' failed
+
+(gnome-settings-daemon:2342): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(gnome-settings-daemon:2342): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(bluetooth-applet:2381): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nautilus:2384): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-fallback-mount-helper:2385): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:2386): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+gtk-window-decorator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+(gdu-notification-daemon:2762): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(update-notifier:3015): Gdk-WARNING **: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:2774): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:2845): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(check-new-release-gtk:3019): Gdk-WARNING **: check-new-release-gtk: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+** Message: PID 2386 (we are 2386) sent signal 15, shutting down...
+
+** (zeitgeist-datahub:2844): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Terminated

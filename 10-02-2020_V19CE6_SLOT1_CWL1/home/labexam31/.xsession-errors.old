@@ -1,0 +1,51 @@
+/home/labexam31/Desktop was removed, reassigning DESKTOP to homedir
+/home/labexam31/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/labexam31/Templates was removed, reassigning TEMPLATES to homedir
+/home/labexam31/Public was removed, reassigning PUBLICSHARE to homedir
+/home/labexam31/Documents was removed, reassigning DOCUMENTS to homedir
+/home/labexam31/Music was removed, reassigning MUSIC to homedir
+/home/labexam31/Pictures was removed, reassigning PICTURES to homedir
+/home/labexam31/Videos was removed, reassigning VIDEOS to homedir
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nautilus:4271): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+** (zeitgeist-datahub:4379): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!

@@ -1,0 +1,18 @@
+/home/labexam42/Desktop was removed, reassigning DESKTOP to homedir
+/home/labexam42/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/labexam42/Templates was removed, reassigning TEMPLATES to homedir
+/home/labexam42/Public was removed, reassigning PUBLICSHARE to homedir
+/home/labexam42/Documents was removed, reassigning DOCUMENTS to homedir
+/home/labexam42/Music was removed, reassigning MUSIC to homedir
+/home/labexam42/Pictures was removed, reassigning PICTURES to homedir
+/home/labexam42/Videos was removed, reassigning VIDEOS to homedir
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+(gnome-settings-daemon:1929): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting

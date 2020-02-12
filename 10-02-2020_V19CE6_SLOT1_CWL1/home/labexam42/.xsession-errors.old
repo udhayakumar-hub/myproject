@@ -1,0 +1,69 @@
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+
+(gnome-settings-daemon:1801): power-plugin-WARNING **: gnome-session is not available
+gnome-session[1752]: WARNING: Application 'compiz.desktop' failed to register before timeout
+gnome-session[1752]: CRITICAL: We failed, but the fail whale is dead. Sorry....
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+(zeitgeist-datahub:1901): LibZeitgeist-CRITICAL **: Failed to create proxy for Zeitgeist daemon: Error calling StartServiceByName for org.gnome.zeitgeist.Engine: Timeout was reached
+
+(zeitgeist-datahub:1901): LibZeitgeist-CRITICAL **: Unable to connect to Zeitgeist daemon: Error calling StartServiceByName for org.gnome.zeitgeist.Engine: Timeout was reached
+
+(zeitgeist-datahub:1901): GLib-GIO-CRITICAL **: g_dbus_proxy_get_connection: assertion `G_IS_DBUS_PROXY (proxy)' failed
+
+(zeitgeist-datahub:1901): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(zeitgeist-datahub:1901): GLib-GIO-CRITICAL **: g_dbus_connection_signal_subscribe: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+Initializing core options...done
+
+(gnome-settings-daemon:1801): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(process:1834): GConf-WARNING **: Directory `/apps/compiz-1' was not being monitored by GConfClient 0x8b76408
+
+(process:1834): GConf-WARNING **: Directory `/apps/metacity' was not being monitored by GConfClient 0x8b76408
+
+(process:1834): GConf-WARNING **: Directory `/desktop/gnome/applications/terminal' was not being monitored by GConfClient 0x8b76408
+
+(process:1834): GConf-WARNING **: Directory `/apps/panel/applets/window_list/prefs' was not being monitored by GConfClient 0x8b76408
+GConf Error: Configuration server couldn't be contacted: D-BUS error: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Initializing animation options...done
+Initializing composite options...done
+Initializing resize options...done
+Initializing move options...done
+Initializing decor options...done
+Initializing expo options...done
+Initializing ezoom options...done
+Initializing fade options...done
+Initializing gnomecompat options...done
+Initializing grid options...done
+Initializing mousepoll options...done
+Initializing opengl options...done
+Initializing place options...done
+Initializing scale options...done
+Initializing session options...done
+Initializing snap options...done
+Initializing staticswitcher options...done
+Initializing unitymtgrabhandles options...done
+Initializing unityshell options...done
+Initializing vpswitch options...done
+Initializing wall options...done
+Initializing workarounds options...done
+Setting Update "autoraise"
+Setting Update "autoraise_delay"
+Setting Update "toggle_window_shaded_key"
+compiz (core) - Warn: failed to receive ConfigureNotify event on 0x1000004
+
+
+(gnome-settings-daemon:1801): color-plugin-WARNING **: Done switch to new account, reload devices

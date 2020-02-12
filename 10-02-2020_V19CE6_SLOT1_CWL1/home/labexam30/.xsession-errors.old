@@ -1,0 +1,43 @@
+/home/labexam30/Desktop was removed, reassigning DESKTOP to homedir
+/home/labexam30/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/labexam30/Templates was removed, reassigning TEMPLATES to homedir
+/home/labexam30/Public was removed, reassigning PUBLICSHARE to homedir
+/home/labexam30/Documents was removed, reassigning DOCUMENTS to homedir
+/home/labexam30/Music was removed, reassigning MUSIC to homedir
+/home/labexam30/Pictures was removed, reassigning PICTURES to homedir
+/home/labexam30/Videos was removed, reassigning VIDEOS to homedir
+
+(gnome-settings-daemon:1833): power-plugin-WARNING **: gnome-session is not available
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+
+(gnome-settings-daemon:1833): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+(gnome-settings-daemon:1833): print-notifications-plugin-CRITICAL **: gsd_print_notifications_plugin_finalize: assertion `plugin->priv != NULL' failed
+
+(gnome-settings-daemon:1833): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(gnome-settings-daemon:1833): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(gnome-fallback-mount-helper:1869): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:1979): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gdu-notification-daemon:1916): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:1873): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(bluetooth-applet:1879): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nautilus:1868): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+

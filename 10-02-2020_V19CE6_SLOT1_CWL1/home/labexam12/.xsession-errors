@@ -1,0 +1,13 @@
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+
+(gnome-settings-daemon:1904): color-plugin-WARNING **: GDBus.Error:org.freedesktop.ColorManager.Failed: failed to obtain org.freedesktop.color-manager.create-profile auth
+
+(gnome-settings-daemon:1904): color-plugin-WARNING **: GDBus.Error:org.freedesktop.ColorManager.Failed: failed to obtain org.freedesktop.color-manager.create-profile auth
+
+(gnome-settings-daemon:1904): color-plugin-WARNING **: GDBus.Error:org.freedesktop.ColorManager.Failed: failed to obtain org.freedesktop.color-manager.create-profile auth
