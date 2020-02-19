@@ -1,0 +1,16 @@
+BatchID/SLOTID/EXAMNAME/DATE --> 19-02-2020_V19CE5_SLOT1_CML
+ 
+Question Start Here --------->
+ 
+Set-A
+	1.Write a program to sort the lines of file based on their length and save to same file.
+
+ 
+Question Ends Here --------->
+ 
+Question Start Here --------->
+ 
+Set -B
+	1.Write a program to replace all the occurrences of a given string with the reverse of it in a given file.
+ 
+Question Ends Here --------->

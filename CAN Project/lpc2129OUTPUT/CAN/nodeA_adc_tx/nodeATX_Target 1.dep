@@ -1,0 +1,6 @@
+Dependencies for Project 'nodeATX', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CFDE8)()
+F (.\mainTX.c)(0x5E2AD114)()
+F (.\can1_driver.c)(0x5E2AD08A)()
+F (.\delay.c)(0x5E2ACFD4)()
+F (.\adc_driver.c)(0x5E2AD11C)()

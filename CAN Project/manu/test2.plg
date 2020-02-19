@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Users\vectorlc\Desktop\CAN Project\manu\test2.uv2
+Project File Date:  02/03/2020
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+Startup.s: Error: A9932E: This Evaluation Version has expired. Please contact your supplier. 
+Target not created
+</pre>
+</body>
+</html>
