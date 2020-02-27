@@ -1,9 +1,0 @@
- 
-Question Start Here --------->
- 
-Set-A
-
-	1.Write a program to print the second highest of the digit of a given integer.
-	2.Write a program to print the prime nos between 1000 to 1 whose last digit is 1.	
-
-Question Ends Here --------->
