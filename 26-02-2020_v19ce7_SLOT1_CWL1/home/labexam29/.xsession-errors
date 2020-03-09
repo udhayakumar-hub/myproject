@@ -1,9 +1,0 @@
-Backend     : gconf
-Integration : true
-Profile     : unity
-Adding plugins
-Initializing core options...done
-** Message: applet now removed from the notification area
-** Message: using fallback from indicator to GtkStatusIcon
-
-(gnome-settings-daemon:2207): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed

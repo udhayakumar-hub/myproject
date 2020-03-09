@@ -1,8 +1,0 @@
- 
-Question Start Here --------->
- 
-	1 a).Write a menu based program to set a particular bit and to know the status of particular bit.
-
- 	  b).Write a program to print the prime numbers between 5000 to 1000 whose last digit is 3.
- 
-Question Ends Here --------->

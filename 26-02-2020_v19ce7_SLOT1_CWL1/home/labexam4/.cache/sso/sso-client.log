@@ -1,3 +1,0 @@
-2016-01-09 08:07:57,969:969.455003738 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
-2016-01-09 08:07:57,971:971.847057343 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
-2016-01-09 08:07:58,463:463.315010071 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'

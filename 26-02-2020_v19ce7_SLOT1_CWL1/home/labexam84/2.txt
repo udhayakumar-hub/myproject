@@ -1,9 +1,0 @@
-/******* Do not Edit This Portion. *******/
- 
-Question Start Here --------->
- 
-	2 a).Write a menu based program to clear a particular bit and compliment of  particular bit.
-
-	  b).write a program to print the palindrome nos between 2000 to 5000 
-
-Question Ends Here --------->

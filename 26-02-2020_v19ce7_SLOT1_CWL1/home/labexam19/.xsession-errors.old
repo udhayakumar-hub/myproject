@@ -1,9 +1,0 @@
-Backend     : gconf
-Integration : true
-Profile     : unity
-Adding plugins
-Initializing core options...done
-** Message: applet now removed from the notification area
-** Message: using fallback from indicator to GtkStatusIcon
-
-** (zeitgeist-datahub:2074): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
