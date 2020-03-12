@@ -1,0 +1,29 @@
+BatchID/SLOTID/EXAMNAME/DATE --> 12-03-2020_V19CE6_SLOT1_CWL2
+ /******* Do not Edit This Portion. *******/
+1. Please Enter StudentID & Name in Every .c File on the top in Comments
+2. Without the StudentID & Name the Question will not be evaulated
+
+
+
+Question Start Here --------->
+ 
+Set -A
+	
+	1.Write a program to implement the user defined function for strncpy()
+	2.Write a program to check whether the given string is palindrome or not.
+
+ 
+Question Ends Here --------->
+/******* Do not Edit This Portion. *******/
+1. Please Enter StudentID & Name in Every .c File on the top in Comments
+2. Without the StudentID & Name the Question will not be evaulated
+ 
+Question Start Here --------->
+ 
+Set-B
+	1.Write a program to implement the user defined function for strcat()
+	
+	2.Write a program to display the no of alphabets,no of numeric characters,and no of special symbols in a given string.
+	Note: input a string which is a combination alphabets,numeric's and special symbols.
+
+Question Ends Here --------->
